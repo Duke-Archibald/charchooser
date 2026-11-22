@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="054eea42-87a2-48dc-aa7e-3fb4791908a7" name="Changes" comment="" />
+    <list default="true" id="054eea42-87a2-48dc-aa7e-3fb4791908a7" name="Changes" comment="project start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +10,73 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0051635540339285" />
+      <entry key="MS500" value="1.4775957058020264" />
+      <entry key="S2" value="2.7465612826814003" />
+      <entry key="S5" value="3.398546009611253" />
+      <entry key="S10" value="3.679156368851034" />
+      <entry key="S30" value="3.888202036084553" />
+      <entry key="S60" value="3.943469266702243" />
+      <entry key="M2" value="3.9715747136069663" />
+      <entry key="M5" value="3.9885912479884933" />
+      <entry key="M10" value="3.994289162897935" />
+      <entry key="M15" value="3.9961913378674168" />
+      <entry key="M30" value="3.998094949834658" />
+      <entry key="H1" value="3.9990472950675033" />
+      <entry key="H2" value="3.9995236025619088" />
+      <entry key="H4" value="3.9997617900368203" />
+      <entry key="D1" value="3.9999602967776853" />
+      <entry key="W1" value="3.999994328072849" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.97767693500557" />
+      <entry key="MS500" value="1.4675386801310637" />
+      <entry key="S2" value="2.7378491597020744" />
+      <entry key="S5" value="3.3934659759590073" />
+      <entry key="S10" value="3.67625427271544" />
+      <entry key="S30" value="3.8871427758998713" />
+      <entry key="S60" value="3.942927359740097" />
+      <entry key="M2" value="3.9713006285906003" />
+      <entry key="M5" value="3.988480854303005" />
+      <entry key="M10" value="3.994233838760511" />
+      <entry key="M15" value="3.9961544267707416" />
+      <entry key="M30" value="3.9980764801044324" />
+      <entry key="H1" value="3.999038056654537" />
+      <entry key="H2" value="3.9995189824681643" />
+      <entry key="H4" value="3.9997594797680964" />
+      <entry key="D1" value="3.999959911702082" />
+      <entry key="W1" value="3.999994273061294" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3MRMWU888zM1aia7RdQErBmRaK1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +85,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -43,6 +107,33 @@
       <option name="presentableId" value="Default" />
       <updated>1795308958276</updated>
     </task>
+    <task id="LOCAL-00001" summary="project start">
+      <option name="closed" value="true" />
+      <created>1795309021825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1795309021826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project start" />
+    <option name="LAST_COMMIT_MESSAGE" value="project start" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
